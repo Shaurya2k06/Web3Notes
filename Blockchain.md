@@ -1,5 +1,4 @@
-## Blockchain: A Highly Specific and Descriptive Overview
-
+## Blockchain
 ### Introduction
 
 - **Definition:** Blockchain is a decentralized, distributed ledger technology (DLT) that enables tamper-proof, transparent, and immutable record-keeping across a peer-to-peer network.
