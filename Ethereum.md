@@ -63,8 +63,5 @@
 - **Institutional Interest:** ETH ETFs, corporate adoption.
 - **ETH as "Ultra Sound Money":** Post **EIP-1559**, ETH has deflationary mechanics.
   
-## Conclusion:
-- **BTC:** Digital gold, secure but slow.
-- **ETH:** Smart contracts, programmability, fuels blockchain innovation.
-- **Ethereum’s Future:** Aims to be the **global settlement layer** for decentralized applications.
+
 
