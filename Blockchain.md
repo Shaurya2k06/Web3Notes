@@ -68,7 +68,7 @@
 - **Supply Chain Management:** Real-time tracking (VeChain, IBM Blockchain, TradeLens).
 - **Identity Verification & Security:** Self-sovereign identities (Civic, Sovrin, Microsoft ION).
 - **NFTs & Digital Art:** Decentralized ownership of digital assets (OpenSea, Rarible, Axie Infinity).
-- **Enterprise Blockchains:** Permissioned networks for business applications (Hyperledger, Quorum, Corda).
+- **Enterprise Blockwchains:** Permissioned networks for business applications (Hyperledger, Quorum, Corda).
 
 ### Advantages of Blockchain
 
