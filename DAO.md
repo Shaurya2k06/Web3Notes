@@ -25,3 +25,4 @@ A Decentralised Autonomous Organisation (DAO) is an organisation represented by 
 
 ### Future of DAOs
 DAOs have the potential to revolutionize traditional business structures by providing a more democratic and transparent way of managing organizations. As the technology and regulatory landscape evolve, DAOs could become a mainstream method for organizing and operating various types of entities, from businesses to non-profits and beyond. The future of DAOs may also see advancements in interoperability, allowing different DAOs to collaborate and interact seamlessly. Additionally, improvements in user experience and security could make DAOs more accessible and reliable for a broader audience.
+
