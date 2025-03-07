@@ -29,3 +29,4 @@ LayerZero can be applied in various scenarios, including:
 - **Decentralized Finance (DeFi):** Enabling seamless asset transfers and interactions across different DeFi platforms.
 - **Non-Fungible Tokens (NFTs):** Facilitating the movement and exchange of NFTs across multiple blockchain networks.
 - **Cross-Chain DApps:** Allowing DApps to leverage the unique features of different blockchains without being confined to a single network.
+
