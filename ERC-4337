@@ -1,0 +1,14 @@
+ERC-4337 makes it possible to transact and create contracts in a single contract account. It opens the door to user-friendly crypto wallet designs that could potentially facilitate broader adoption.
+
+Another way to think about ERC-4337 is that it brings smart contract functionality to wallets in a single account. This makes services like multi-factor authentication and automatic payments easier to set up.
+
+The goals ERC-4337 aims to achieve include the following:
+
+- **Account abstraction**: Allow users to enjoy a single account with functionalities of smart contracts and EOAs.
+- **Decentralization**: Allow any so-called bundlers to participate in the process.
+- **Avoid consensus changes**: Make faster adoption possible as the Ethereum consensus layer focuses on scalability-oriented upgrades.
+- **Enable innovative use cases**: These could include aggregated signatures, setting daily transaction limits, emergency account freezing, whitelisting, and privacy-preserving applications.
+- **Save time and gas**: As bundlers can package UserOperation objects into one transaction, it could save time and gas.
+- **Enhanced security**: Implement advanced security features such as multi-signature wallets and biometric authentication.
+- **User experience improvements**: Simplify the user experience by reducing the complexity of managing multiple accounts and keys.
+- **Interoperability**: Ensure compatibility with existing Ethereum infrastructure and other blockchain networks.
