@@ -7,4 +7,4 @@ The main idea of the Ethereum Plasma is to establish a framework of secondary ch
 - **Scalability**: Plasma allows for the creation of child chains that can process transactions independently, thus offloading the main chain.
 - **Security**: Plasma chains inherit the security of the Ethereum main chain, ensuring that transactions are secure and verifiable.
 - **Interoperability**: Plasma chains can interact with each other and the main Ethereum chain, allowing for a flexible and interconnected ecosystem.
-- **Reduced Fees**: By processing transactions off-chain, Plasma can significantly reduce transaction fees compared to those on the main Ethereum chain.
+- **Reduced Fees**: By processing transactions off-chain, Plasma can significantly reduce transaction fees compared to those on the main Ethereum chain.w
