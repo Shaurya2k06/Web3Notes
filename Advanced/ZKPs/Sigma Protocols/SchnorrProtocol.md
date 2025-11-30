@@ -1,4 +1,4 @@
-# Schnorr Protocol: Complete Guide from Scratch
+# Schnorr Protocol
 
 ## Prerequisites: What You Need to Know
 

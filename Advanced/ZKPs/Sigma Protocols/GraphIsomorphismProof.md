@@ -1,4 +1,4 @@
-# Graph Isomorphism Protocol: Complete Guide from Scratch
+# Graph Isomorphism Protocol
 
 ## Prerequisites: Graph Theory Fundamentals
 
